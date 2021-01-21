@@ -1,0 +1,1 @@
+This is a game where we are given the rgb code of the color on the top of the web page and we have to guess it by clicking the colours. If correct, all the color of square changes to that correct colour.
